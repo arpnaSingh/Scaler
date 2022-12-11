@@ -1,0 +1,3 @@
+Question: What is the number of times we need to divide N by 2 till it reaches 1 ?
+
+Answer:Math.Floor(logN);
