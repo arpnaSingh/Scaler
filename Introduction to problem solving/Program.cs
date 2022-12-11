@@ -11,4 +11,5 @@ Console.WriteLine("PerfectNumber: " + PerfectNumber.IsPerfectNumber(27));
 Console.WriteLine("CountOfPrime: " + CountOfPrime.GetCountOfPrimeNumber(27));
 Console.WriteLine("MangoShake: " + MangoShake.GetMangoShakeGlass(7, 1));
 Console.WriteLine("NumberOfElementsInRange: " + ELementsInRange.FindNumOfElemInRange(new int[] { 135, 246 }));
+// Console.WriteLine("DivideBy2: " + Math.Floor(logN));
 #endregion Homerwork
