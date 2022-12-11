@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-#region Assignment
+﻿#region Assignment
 Console.WriteLine("CountFactors: " + CountFactors.GetFactors(27));
 Console.WriteLine("PrimeNubmers: " + PrimeNumber.IsPrimeNumer(27));
 Console.WriteLine("SquareRoot: " + SquareRoot.GetSquareRoot(27));
@@ -11,4 +10,5 @@ Console.WriteLine("SumOfNNumbers: " + SumOfNNumbers.GetSum(49));
 Console.WriteLine("PerfectNumber: " + PerfectNumber.IsPerfectNumber(27));
 Console.WriteLine("CountOfPrime: " + CountOfPrime.GetCountOfPrimeNumber(27));
 Console.WriteLine("MangoShake: " + MangoShake.GetMangoShakeGlass(7, 1));
+Console.WriteLine("NumberOfElementsInRange: " + ELementsInRange.FindNumOfElemInRange(new int[] { 135, 246 }));
 #endregion Homerwork
