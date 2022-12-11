@@ -1,0 +1,19 @@
+**What is the time complexity of the following code snippet**
+
+```
+for(int i = 0 ; i < n ; i++){
+
+for(int j = 0 ; j <= i ; j++){
+
+print(i+j);
+
+}
+
+}
+````
+
+- [X] o(N^2)
+- [ ] o(NlogN)
+- [ ] o(N)
+- [ ] o(N^3)
+
