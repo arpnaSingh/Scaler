@@ -9,4 +9,5 @@ Console.WriteLine("SumOfNNumbers: " + SumOfNNumbers.GetSum(49));
 
 #region Homerwork
 Console.WriteLine("PerfectNumber: " + PerfectNumber.IsPerfectNumber(27));
+Console.WriteLine("CountOfPrime: " + CountOfPrime.GetCountOfPrimeNumber(27));
 #endregion Homerwork
